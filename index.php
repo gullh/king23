@@ -443,10 +443,10 @@ Active User: <font color="yellow">'.count($user).'
 </div>
 <center>
 </font>
-<b><font style="background: url() repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.10em red, 0pt 2pt 0.9em white;color: white ;font-size:20px;">Modified By : MRDJ AYESH</font></b>
+<b><font style="background: url() repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.10em red, 0pt 2pt 0.9em white;color: white ;font-size:20px;">Modified By : GUL HASSAN</font></b>
 <center>
 </font>
-<b><font style="background: url() repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.10em red, 0pt 2pt 0.9em white;color: white ;font-size:20;">Edit By : AYAN ALI</font></b>
+<b><font style="background: url() repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.10em red, 0pt 2pt 0.9em white;color: white ;font-size:20;">Edit By : GUL HASSAN</font></b>
 
 </font>
 <center>
@@ -458,7 +458,7 @@ Active User: <font color="yellow">'.count($user).'
 <center>
 <img src="http://sahjou.mw.lt/images/sharjoyu_8_15.gif" alt="Sharjoyu 8 15"><img src="http://sahjou.mw.lt/images/sharjoyu_8_16.gif" alt="Sharjoyu 8 16">
 <b>
-<marquee behavior="scroll" direction="left" scrollamount="15" scrolldelay="1"><strong><font style="text-shadow: 1px 1px red; color:white;" size="5"> ••´º´•» POWERED BY MRDJ AYESH «•´º´•• </font></strong></marquee>
+<marquee behavior="scroll" direction="left" scrollamount="15" scrolldelay="1"><strong><font style="text-shadow: 1px 1px red; color:white;" size="5"> ••´º´•» POWERED BY GUL HASSAN «•´º´•• </font></strong></marquee>
   
 
 </b></center></center></div></center></font></center></font></center>
@@ -559,4 +559,4 @@ if($_GET[token]){
 <br>
 <br><br></font><marquee behavior="scroll" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="1" scrolldelay="6" direction="left" truespeed="truespeed">
 <img src="SP.gif"></font></font></strong><font color="yellow"><font size="60">NOTE:-</b><font color="green"><font size="60"> POWERED BY GUL HASSAN*
-<img src="MS.gif"></marquee>
+<img src="MS.gif"></marquee>
